@@ -7,7 +7,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Kaung-Pyae-Min-Thein&color=green)
 
-<a href="www.linkedin.com/in/kaung-pyae-min-thein">
+<a href="https://www.linkedin.com/in/kaung-pyae-min-thein/">
   <img align="left" alt="Kaung Pyae's Linkdein" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br/>
